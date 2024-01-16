@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# Editor files
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+
+# Local environment files
+.env
+
+# Log files
+*.log
+
+# Temporary files
+.tmp/
+.temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.jar
+*.war
+*.ear
+*.db
+
+# Project-specific files
+project-specific-file.ext
